@@ -1,5 +1,5 @@
 
-Vater = input(str("Bitte gebe deinen Vater ein: "))
+Vater = input(str("Bitte gebe den Vornamen deines Vaters ein: "))
 Mutter = input(str("bitte gebe den Vornamen deiner Mutter ein: "))
 
 liste = [ Vater , "Carl" , Mutter ]
