@@ -34,9 +34,7 @@ print(len(meine_liste))  # Länge der Liste
 meine_liste.sort()       # Sortiert die Liste (wenn Datentypen vergleichbar sind)
 meine_liste.reverse()    # Dreht die Reihenfolge um
 
-
-
-
+# Beispielaufgabe:
 
 Vater = input(str("Bitte gebe den Vornamen deines Vaters ein: "))
 Mutter = input(str("bitte gebe den Vornamen deiner Mutter ein: "))
