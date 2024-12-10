@@ -2,36 +2,29 @@
 #Variablen können Werte im Arbeitsspeicher des Rechners ablegen und aufrufen, sie sind eine große Erleichterung beim Programmieren.
 
 a = 55  # Variable Integer vs Variable als String 
-#wort = ("Hallo")
+wort = ("Hallo")
 
 print (a)
-#print (wort)
+print (wort)
 
-#s = 5 + 6
+s = 5 + 6
 
-#print (s)
+print (s)
 
-#11
+print  (s * s)
 
-#print  (s * s)
+b = 5
 
-#121
+print (b * b * b)
 
-#b = 5
 
-#print (b * b * b)
+age = 21
+age2 = 18
 
-#125
+print ((age + age2) / 2)
 
-#age = 21
-#age2 = 18
+average_age = (age + age2) / 2
 
-#print ((age + age2) / 2)
+print (average_age)
 
-#19.5
-
-#average_age = (age + age2) / 2
-
-#print (average_age)
-
-#19.5
+19.5
