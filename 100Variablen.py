@@ -27,4 +27,3 @@ average_age = (age + age2) / 2
 
 print (average_age)
 
-19.5
