@@ -25,4 +25,14 @@ else:
 
 ```
 
+Hier ist deine erste Aufgabe zum Thema Bedingungen:
+
+Aufgabe:
+Schreibe ein Programm, das eine Zahl vom Benutzer abfragt und überprüft, ob die Zahl größer, kleiner oder gleich 10 ist. Gib je nach Bedingung eine entsprechende Nachricht aus, z. B.:
+	•	“Die Zahl ist größer als 10.”
+	•	“Die Zahl ist kleiner als 10.”
+	•	“Die Zahl ist gleich 10.”
+
+(Teste dein Programm und schicke mir dann den Code, damit ich dir Feedback geben kann.)
+
 https://colab.research.google.com/drive/1kvbeKbEoH515keeeSqwJqcjTSsdVYVZC?usp=sharing
