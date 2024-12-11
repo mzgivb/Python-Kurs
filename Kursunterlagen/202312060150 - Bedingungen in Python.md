@@ -25,14 +25,26 @@ else:
 
 ```
 
-Hier ist deine erste Aufgabe zum Thema Bedingungen:
+### Hier ist deine erste Aufgabe zum Thema Bedingungen:
 
-Aufgabe:
+1. Aufgabe:
 Schreibe ein Programm, das eine Zahl vom Benutzer abfragt und überprüft, ob die Zahl größer, kleiner oder gleich 10 ist. Gib je nach Bedingung eine entsprechende Nachricht aus, z. B.:
 	•	“Die Zahl ist größer als 10.”
 	•	“Die Zahl ist kleiner als 10.”
 	•	“Die Zahl ist gleich 10.”
 
-(Teste dein Programm und schicke mir dann den Code, damit ich dir Feedback geben kann.)
+
+2. Aufgabe:
+Schreibe ein Programm, das das Alter einer Person abfragt und ausgibt, ob sie:
+	•	ein Kind (unter 12 Jahre),
+	•	ein Teenager (12 bis 17 Jahre),
+	•	ein Erwachsener (18 Jahre oder älter) ist.
+
+Gib eine entsprechende Nachricht aus, z. B.:
+	•	“Du bist ein Kind.”
+	•	“Du bist ein Teenager.”
+	•	“Du bist ein Erwachsener.”
+
+(Teste dein Programm und schicke mir den Code, wenn du fertig bist!)
 
 https://colab.research.google.com/drive/1kvbeKbEoH515keeeSqwJqcjTSsdVYVZC?usp=sharing
