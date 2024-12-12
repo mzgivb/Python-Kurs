@@ -95,4 +95,4 @@ Wenn du die Datei erfolgreich eingelesen und bereinigt hast, kannst du die Liste
 	•	Manipulation: Namen zur Liste hinzufügen oder entfernen.
 	•	Speichern: Änderungen zurück in die Datei schreiben.
 
-Hast du dazu noch Fragen? 😊
+
