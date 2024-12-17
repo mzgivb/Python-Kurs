@@ -45,7 +45,6 @@ Gib eine entsprechende Nachricht aus, z. B.:
 	•	“Du bist ein Teenager.”
 	•	“Du bist ein Erwachsener.”
 
-(Teste dein Programm und schicke mir den Code, wenn du fertig bist!)
 
 3. Aufgabe: Bestimmung der Notenstufe
 
