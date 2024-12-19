@@ -2,15 +2,15 @@ a = 6
 b = 3
 c = a + b
 
-print (c)
+print(c)
 
 d = a * b
 
-print (d)
+print(d)
 
 e = a / b
 
-print (e)
+print(e)
 
 # Beispiel Vergleichsoperatoren
 
