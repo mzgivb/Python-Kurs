@@ -22,4 +22,11 @@ if alter >= 18 and punkte >= 100:
 else:
     print("Teilnahme nicht erlaubt")
 
+# Beispiel Modulo Operator - prüfen ob eine Zahl gerade oder ungerade ist
 
+zahl = int(input("Gib eine Zahl ein: "))
+
+if zahl % 2 == 0:
+    print("Die Zahl ist gerade.")
+else:
+    print("Die Zahl ist ungerade.")
