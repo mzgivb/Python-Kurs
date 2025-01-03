@@ -24,7 +24,7 @@ Jochen Leeder
 3. Führe den Installer aus und folge den Anweisungen.
 ---
 # Dein erstes Python-Programm
-- Öffne einen Texteditor z. B. in MacOS den coteditor
+- Öffne einen Texteditor z. B. in MacOS den coteditor oder das Terminal mit vim
 - Schreibe:
  ```python
  print("Hallo Welt!")
