@@ -42,10 +42,10 @@ int main() {
 3. Führe den Installer aus und folge den Anweisungen.
 ---
 # Dein erstes Python-Programm
-- Öffne einen Texteditor z. B. in MacOS den coteditor oder das Terminal mit vim
+- Öffne einen Texteditor z. B. in MacOS den coteditor oder das Terminal mit vim oder nvim falls installiert
 - Schreibe:
  ```python
- print("Hallo Welt!")
+ print("Hallo, Welt!")
  ```
 - Speichere die Datei als `hallo.py` in ein dafür angelegtes Verzeichnis z. B. Python_Kurs
 ---
