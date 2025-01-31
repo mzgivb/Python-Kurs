@@ -4,19 +4,37 @@ theme: uncover
 _class: invert
 ---
 <!-- paginate: true -->
-# Python 🐍 Kurs für Anfänger
+# Python 🐍 Kurs für Einsteiger
 Jochen Leeder
 
 ---
-# Was ist Python?
-- Python ist eine hochgradig lesbare Programmiersprache.
-- Sie ist einfach zu erlernen und vielseitig einsetzbar.
-- Wird für Webentwicklung, Datenanalyse, KI und mehr verwendet.
+# Warum programmieren lernen?
+- 🙇‍♂️ man lernt Probleme zu lösen
+- 😫 man macht immer wieder Fehler
+- 😜 man freut sich wenn es klappt
+
+
 ---
-# Warum Python?
+# Was ist Python 🐍?
+- Python ist eine hochgradig lesbare Programmiersprache.
+- Sie ist einfach 🙂 zu erlernen und vielseitig einsetzbar.
+- Wird für Webentwicklung, Datenanalyse, KI und mehr verwendet.
+- man kan auch Microcontroller damit steuern (Micropython)
+---
+# Warum Python 🐍?
 - Klare, einfache Syntax, die die Programmierung verständlicher macht.
-- Große Community und umfangreiche Bibliotheken.
-- Plattformunabhängig: Läuft auf Windows, Mac und Linux.
+```python
+print ("Hallo, Welt!")
+```
+---
+# Code Beispiele anderer Sprachen
+```c
+#include <stdio.h>
+int main() {
+    printf("Hello World!\n");
+    return 0;
+}
+```
 ---
 # Python installieren
 1. Gehe zu [python.org](https://python.org)
