@@ -101,6 +101,14 @@ bool_value_2 = False
 - Subtraktion: `-`
 - Multiplikation: `*`
 - Division: `/`
+- Modolo: `%`
+---
+# Vergleichsoperatoren
+
+- Ist gleich: `==`
+- größer: `>`
+- kleiner: `<`
+- kleiner(größer) gleich: `<=`
 ---
 # Beispiele zu Operatoren
 
