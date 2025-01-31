@@ -63,9 +63,9 @@ int main() {
 # Lets code 🧑‍💻
 
 - Entscheiden sie sich für einen Editor.
-- Legen sie sich auf Ihrem Rechner eine Projekt_Ordner an.
+- Legen sie sich auf Ihrem Rechner einen Projekt_Ordner an.
 - Öffnen sie diesen Ordner im Editor.
-- Öffnen sie ein leere Datei an die sie dann als hallo.py speichern. 
+- Öffnen sie eine leere Datei an die sie dann als hallo.py speichern. 
 ---
 # Variablen
 - Speichern von Daten für die spätere Verwendung.
