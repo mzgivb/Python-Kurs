@@ -27,7 +27,7 @@ Jochen Leeder
 print ("Hallo, Welt!")
 ```
 ---
-# Code Beispiele anderer Sprachen
+# Code Beispiele anderer Sprachen (C)
 ```c
 #include <stdio.h>
 int main() {
