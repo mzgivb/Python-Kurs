@@ -257,7 +257,7 @@ print(meine_liste)
 ```
 
 ---
-# Elemente zugreifen
+# Auf Elemente zugreifen
 - Auf Elemente einer Liste greift man mit dem Index zu.
 - Indizes beginnen bei 0.
 - Beispiel:
