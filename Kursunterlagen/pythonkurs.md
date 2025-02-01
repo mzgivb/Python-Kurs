@@ -233,8 +233,25 @@ while zahl >= 1:
 - `for`-Schleifen eignen sich gut für die Iteration über Sequenzen.
 - `while`-Schleifen sind nützlich, wenn die Anzahl der Durchläufe nicht im Voraus bekannt ist.
 - `break` und `continue` ermöglichen eine feinere Kontrolle über den Schleifenfluss.
-
-
+---
+# Das Turtle Modul
+ Es gibt sehr viele Module (lybraries) in Python. Ein spaßiges besonder für Lernenden motivierendes ist das Turtle Modul 🐢.
+ ```python
+ import turtle
+ 
+ turtle.forward(200)
+ ````
+---
+# Die Olympischen Ringe mit turtle
+```python
+turtle.color('yellow')
+turtle.circle(100)
+turtle.up()
+turtle.color('orange')
+turtle.forward(150)
+turtle.down()
+turtle.circle(100)
+```
 
 ---
 # Listen
