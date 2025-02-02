@@ -10,11 +10,11 @@ tags:
   - files
 ---
 
-Allgemeines Vorgehen: Dateien auslesen und bereinigen
+# Allgemeines Vorgehen: Dateien auslesen und bereinigen
 
 Das Auslesen von Dateien in Python und die Verarbeitung der Inhalte zu einer Liste ist ein häufiger Anwendungsfall. Hier ist der allgemeine Ablauf:
 
-1. Datei öffnen und Zeilen einlesen
+## 1. Datei öffnen und Zeilen einlesen
 
 Mit open() öffnest du eine Datei, und readlines() liest alle Zeilen der Datei ein und speichert sie in einer Liste.
 
@@ -26,7 +26,7 @@ with open("dateiname.txt", "r") as file:
 	•	zeilen ist jetzt eine Liste, in der jede Zeile aus der Datei ein eigener Eintrag ist.
 	•	Das with-Statement stellt sicher, dass die Datei nach dem Lesen automatisch geschlossen wird.
 
-2. Bereinigen der Zeilen
+## 2. Bereinigen der Zeilen
 
 Beim Einlesen enthalten die Zeilen oft unerwünschte Leerzeichen oder Zeilenumbrüche.
 Mit .strip() kannst du diese entfernen:
@@ -39,7 +39,7 @@ bereinigte_zeilen = [zeile.strip() for zeile in zeilen]
 	•	Hier wird eine List Comprehension verwendet, um jede Zeile in der Liste zu bereinigen.
 	•	.strip() entfernt führende und nachfolgende Leerzeichen sowie \n (Zeilenumbrüche).
 
-3. Die bereinigte Liste nutzen
+## 3. Die bereinigte Liste nutzen
 
 Die bereinigten Zeilen kannst du nun weiterverarbeiten. Zum Beispiel:
 	•	Ausgabe der Liste:
