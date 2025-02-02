@@ -16,7 +16,7 @@ Jede Datei behandelt ein grundlegendes Konzept, um dir Schritt für Schritt die 
 - **500Listen.py**: Arbeiten mit Listen (Erstellen, Indexzugriff, Methoden).
 - **600Schleifen.py**: Iterationen mit `for`- und `while`-Schleifen.
 - **700Funktionen.py**: Funktionsdefinitionen, Parameter und Rückgabewerte.
-- **800Auslesen-py**: Einführung in das Auslesen von Textdateien und dessen Analyse.
+- **800Auslesen.py**: Einführung in das Auslesen von Textdateien und dessen Analyse.
 
 ## Voraussetzungen
 
