@@ -16,11 +16,14 @@ Jede Datei behandelt ein grundlegendes Konzept, um dir Schritt für Schritt die 
 - **500Listen.py**: Arbeiten mit Listen (Erstellen, Indexzugriff, Methoden).
 - **600Schleifen.py**: Iterationen mit `for`- und `while`-Schleifen.
 - **700Funktionen.py**: Funktionsdefinitionen, Parameter und Rückgabewerte.
+- **800Auslesen-py**: Einführung in das Auslesen von Textdateien und dessen Analyse.
 
 ## Voraussetzungen
 
 - Installiere [Python](https://www.python.org/downloads/) (mindestens Version 3.x).
 - Lade dieses Repository herunter oder klone es.
+- Als Entwicklungsumgebung (IDE) setzen wird - VS Code, Vim oder Nvim ein!
+- Windows USer in jedem Fall VS Code
 
 ## Ausführen der Beispiele
 
