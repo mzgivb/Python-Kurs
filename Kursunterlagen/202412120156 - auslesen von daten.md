@@ -10,7 +10,7 @@ tags:
   - files
 ---
 
-# Allgemeines Vorgehen: Dateien auslesen und bereinigen
+# Dateien auslesen und bereinigen
 
 Das Auslesen von Dateien in Python und die Verarbeitung der Inhalte zu einer Liste ist ein häufiger Anwendungsfall. Hier ist der allgemeine Ablauf:
 
