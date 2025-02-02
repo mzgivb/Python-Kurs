@@ -488,11 +488,71 @@ print(ist_gerade(7))
 - Funktionen helfen, den Code zu strukturieren und zu modularisieren.
 
 ---
-# Nächste Schritte
-- Dateien einlesen und schreiben: Mit externen Daten arbeiten.
-- Fehlerbehandlung: Programme robust machen.
-- Objektorientierte Programmierung: Komplexe Programme strukturieren.
+# Dateien einlesen und schreiben
+- das Einlesen und ausgeben von Daten ist der erste Schritt zur Analyse von Daten (Data - Analytics) eines der Haupteinsatszenarien von Python🐍
+
 ---
+# Der open Befehl
+
+Mit open() öffnest du eine Datei, und readlines() liest alle Zeilen der Datei ein und speichert sie in einer Liste.
+```python
+with open("dateiname.txt", "r") as file:
+    zeilen = file.readlines()  # Jede Zeile wird als String! in die Liste geschrieben
+````
+---
+# Bereinigen der Daten
+Beim Einlesen enthalten die Zeilen oft unerwünschte Leerzeichen oder Zeilenumbrüche (/n).
+Mit .strip() kannst du diese entfernen:
+
+Code-Beispiel:
+```python
+bereinigte_zeilen = [zeile.strip() for zeile in zeilen]
+```
+---
+# Bereinigte Zeilen ausgeben
+
+Man kann zuwischendruch die Werte oder Daten ausgeben lassen um zu überprüfen ob alls wie gewünscht dargestellt wird
+
+```python
+print("Bereinigte Liste:")
+for index, name in enumerate(bereinigte_zeilen, start=1):
+    print(f"{index}. {name}")
+```
+---
+# Die bereinigte Liste nutzen
+
+Die bereinigten Zeilen kannst du nun weiterverarbeiten. Zum Beispiel:
+	•	Ausgabe der Liste:
+```python
+for zeile in bereinigte_zeilen:
+    print(zeile)
+
+
+Überprüfen, ob ein bestimmtes Element in der Liste ist:
+
+if "Gesuchter Name" in bereinigte_zeilen:
+    print("Name gefunden!")
+
+```
+---
+# Der gesamte Code
+
+```python
+with open("namen_liste.txt", "r") as file:
+    zeilen = file.readlines()
+
+bereinigte_zeilen = [zeile.strip() for zeile in zeilen]
+print("Bereinigte Liste:")
+for index, name in enumerate(bereinigte_zeilen, start=1):
+    print(f"{index}. {name}")
+suchname = input("Gib einen Namen ein, um zu prüfen, ob er in der Liste ist: ")
+if suchname in bereinigte_zeilen:
+    print("Der Name ist in der Liste.")
+else:
+    print("Der Name ist nicht in der Liste."
+```
+---
+
 
 
 
