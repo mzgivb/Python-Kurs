@@ -1,5 +1,5 @@
 # Python-Kurs
-Einsteiger Kurs für Lehrkräfte
+Python Einsteiger Kurs für Lehrkräfte aus dem Schulamtsbezirk Gießen Vogelsberg
 
 # Kursunterlagen Python-Einführung
 
