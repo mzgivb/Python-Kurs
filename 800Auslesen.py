@@ -9,6 +9,8 @@ bereinigte_zeilen = [zeile.strip() for zeile in zeilen]
 print("Bereinigte Liste:")
 for index, name in enumerate(bereinigte_zeilen, start=1):
     print(f"{index}. {name}")
+    
+    
 
 # Überprüfen, ob ein Name vorhanden ist
 suchname = input("Gib einen Namen ein, um zu prüfen, ob er in der Liste ist: ")
