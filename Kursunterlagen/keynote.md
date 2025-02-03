@@ -14,6 +14,35 @@ Jochen Leeder
 - 😜 man freut sich wenn es klappt
 - 💻 man bekommt ein besseres Verständnis der Rechnerarchitektur
 - 🤖 Ki ist ein genialer Coding Coach
+---
+# Digitale Grundlagen für Python (Allgemeine Informatik)
+	
+	•	Grundprinzip:
+	•	Computer arbeiten mit zwei Zuständen: 0 und 1
+	•	Diese Zustände (Bits) bilden den binären Code
+	•	Bedeutung:
+	•	Jede Zahl, jeder Text und jeder Befehl wird als Folge von Bits dargestellt
+	•	Binärcode ist die Basis aller Computerprozesse
+
+---
+# Speicherung von Daten
+	
+    ### Speicherarten:
+
+	•	RAM: Kurzzeitspeicher für aktive Prozesse
+	•	Festplatte/SSD: Langzeitspeicher für Daten
+
+    ### Datenorganisation:
+
+	•	Daten werden in Bytes (8 Bits) gespeichert
+	•	Jede Speicherzelle besitzt eine eindeutige Adresse zur Datenverwaltung
+	•	Beispiel:
+	•	Eine Zahl wie 13 wird als 00001101 im 8-Bit-Format gespeichert. Die Zahl 13 belegt in Speicher 3 Bytes
+
+**ls -l # zeigt das Rechtesystem und die Speicherblegung an !**
+    
+rw-r--r--@ [3]  13.txt
+    
 
 
 ---
