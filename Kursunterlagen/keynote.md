@@ -12,6 +12,8 @@ Jochen Leeder
 - 🙇‍♂️ man lernt Probleme zu lösen
 - 😫 man macht immer wieder Fehler
 - 😜 man freut sich wenn es klappt
+- 💻 man bekommt ein besseres Verständnis der Rechnerarchitektur
+- 🤖 Ki ist ein genialer Coding Coach
 
 
 ---
