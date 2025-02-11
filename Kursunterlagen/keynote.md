@@ -413,6 +413,7 @@ print(zahlen)
 3. Ändere den zweiten Film in der Liste.
 4. Entferne den letzten Film aus der Liste.
 5. Durchsuche die Liste und gib jeden Film aus.
+6. Filtere aus  zahlen = [1,2,3,4,5,6,7,12,13,35,48] die geraden Zahlen heraus und gebe sie als Liste aus⭐️
 
 ---
 # Lösung: Listen
