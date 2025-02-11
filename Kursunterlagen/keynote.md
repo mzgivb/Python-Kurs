@@ -2,6 +2,7 @@
 marp: true
 theme: uncover
 _class: invert
+math: mathjax
 ---
 <!-- paginate: true -->
 # Python 🐍 Kurs für Einsteiger
@@ -34,8 +35,10 @@ git clone https://github.com/mzgivb/Python-Kurs.git
 # Binäre Zahlen
 
 Binäre Zahlen bestehen nur aus den Ziffern 0️⃣ und 1️⃣ und sind die Grundlage der digitalen Technik. Jede Stelle einer Binärzahl entspricht einer Potenz von
- $$(2^x)$$
-  (z. B. usw.), wobei die 1️⃣ die entsprechende Potenz aktiviert und die 0️⃣ sie auslässt. Um eine Binärzahl in eine Dezimalzahl umzuwandeln, multipliziert man jede Stelle mit ihrer Zweierpotenz und summiert die Ergebnisse.
+
+$$(2^x)$$
+
+(z. B. usw.), wobei die 1️⃣ die entsprechende Potenz aktiviert und die 0️⃣ sie auslässt. Um eine Binärzahl in eine Dezimalzahl umzuwandeln, multipliziert man jede Stelle mit ihrer Zweierpotenz und summiert die Ergebnisse.
 
 
 ---
