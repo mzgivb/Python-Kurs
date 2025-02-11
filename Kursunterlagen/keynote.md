@@ -7,6 +7,12 @@ _class: invert
 # Python 🐍 Kurs für Einsteiger
 Jochen Leeder
 
+
+---
+# Fortbildungsunterlagen auf github
+
+git clone https://github.com/mzgivb/Python-Kurs.git
+
 ---
 # Warum programmieren lernen?
 - 🙇‍♂️ man lernt Probleme zu lösen
@@ -25,14 +31,33 @@ Jochen Leeder
 	•	Binärcode ist die Basis aller Computerprozesse
 
 ---
+# Binäre Zahlen
+
+Binäre Zahlen bestehen nur aus den Ziffern 0️⃣ und 1️⃣ und sind die Grundlage der digitalen Technik. Jede Stelle einer Binärzahl entspricht einer Potenz von
+ $$(2^x)$$
+  (z. B. ￼ usw.), wobei die 1️⃣ die entsprechende Potenz aktiviert und die 0️⃣ sie auslässt. Um eine Binärzahl in eine Dezimalzahl umzuwandeln, multipliziert man jede Stelle mit ihrer Zweierpotenz und summiert die Ergebnisse.
+
+
+---
+# Beispiel binäre Zahlen
+Ein Beispiel für eine Binärzahl und deren Umrechnung in das Dezimalsystem:
+
+Die Binärzahl 1️⃣0️⃣1️⃣1️⃣ wird wie folgt in eine Dezimalzahl umgewandelt:
+$$(1 \times 2^3) + (0 \times 2^2) + (1 \times 2^1) + (1 \times 2^0)$$
+
+$$(1 \times 8) + (0 \times 4) + (1 \times 2) + (1 \times 1) = 8 + 0 + 2 + 1 = 11$$
+Also entspricht 11️⃣0️⃣1️⃣1️⃣ (binär) der Dezimalzahl 11.
+
+
+---
 # Speicherung von Daten
 	
-    ### Speicherarten:
+    Speicherarten:
 
 	•	RAM: Kurzzeitspeicher für aktive Prozesse
 	•	Festplatte/SSD: Langzeitspeicher für Daten
 
-    ### Datenorganisation:
+    Datenorganisation:
 
 	•	Daten werden in Bytes (8 Bits) gespeichert
 	•	Jede Speicherzelle besitzt eine eindeutige Adresse zur Datenverwaltung
@@ -43,6 +68,7 @@ Jochen Leeder
     
 rw-r--r--@ [3]  13.txt
     
+
 
 
 ---
