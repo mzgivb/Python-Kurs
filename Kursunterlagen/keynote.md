@@ -35,7 +35,7 @@ git clone https://github.com/mzgivb/Python-Kurs.git
 
 Binäre Zahlen bestehen nur aus den Ziffern 0️⃣ und 1️⃣ und sind die Grundlage der digitalen Technik. Jede Stelle einer Binärzahl entspricht einer Potenz von
  $$(2^x)$$
-  (z. B. ￼ usw.), wobei die 1️⃣ die entsprechende Potenz aktiviert und die 0️⃣ sie auslässt. Um eine Binärzahl in eine Dezimalzahl umzuwandeln, multipliziert man jede Stelle mit ihrer Zweierpotenz und summiert die Ergebnisse.
+  (z. B. usw.), wobei die 1️⃣ die entsprechende Potenz aktiviert und die 0️⃣ sie auslässt. Um eine Binärzahl in eine Dezimalzahl umzuwandeln, multipliziert man jede Stelle mit ihrer Zweierpotenz und summiert die Ergebnisse.
 
 
 ---
@@ -47,7 +47,6 @@ $$(1 \times 2^3) + (0 \times 2^2) + (1 \times 2^1) + (1 \times 2^0)$$
 
 $$(1 \times 8) + (0 \times 4) + (1 \times 2) + (1 \times 1) = 8 + 0 + 2 + 1 = 11$$
 Also entspricht 11️⃣0️⃣1️⃣1️⃣ (binär) der Dezimalzahl 11.
-
 
 ---
 # Speicherung von Daten
