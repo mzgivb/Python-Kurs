@@ -112,6 +112,7 @@ int main() {
 
 - Unter macOS musst du im Terminal zunächst in das Verzeichnis navigieren in der die Datei Python Datei liegt `cd /dein Verzeichnis/`
 - Führe sie im Terminal mit `/usr/local/bin/ python3 hallo.py` aus. 
+- Unter Windows empfempfehle ich `wsl --install` (installiert Linux Subsystem)
 ---
 # Alternative Editoren bzw. IDE (Entwicklungsumgebungen)
 
