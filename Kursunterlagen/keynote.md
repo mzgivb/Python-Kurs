@@ -108,11 +108,11 @@ int main() {
  ```
 - Speichere die Datei als `hallo.py` in ein dafür angelegtes Verzeichnis z. B. Python_Kurs
 ---
-# Dein erstes Programm aufrufen
+# Dein erstes Programm 
 
 - Unter macOS musst du im Terminal zunächst in das Verzeichnis navigieren in der die Datei Python Datei liegt `cd /dein Verzeichnis/`
 - Führe sie im Terminal mit `/usr/local/bin/ python3 hallo.py` aus. 
-- Unter Windows empfempfehle ich `wsl --install` (installiert Linux Subsystem)
+- Unter Windows empfempfehle ich `wsl --install` (installiert Linux Subsystem) danach `wsl --install -d Ubuntu`
 ---
 # Alternative Editoren bzw. IDE (Entwicklungsumgebungen)
 
