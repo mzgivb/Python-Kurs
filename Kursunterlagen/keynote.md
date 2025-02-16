@@ -78,7 +78,7 @@ rw-r--r--@ [3]  13.txt
 - Python ist eine hochgradig lesbare Programmiersprache.
 - Sie ist einfach 🙂 zu erlernen und vielseitig einsetzbar.
 - Wird für Webentwicklung, Datenanalyse, KI und mehr verwendet.
-- man kan auch Microcontroller damit steuern (Micropython)
+- man kann auch Microcontroller damit steuern (Micropython)
 ---
 # Warum Python 🐍?
 - Klare, einfache Syntax, die die Programmierung verständlicher macht.
@@ -161,7 +161,7 @@ bool_value_2 = False
 - Subtraktion: `-`
 - Multiplikation: `*`
 - Division: `/`
-- Modolo: `%`
+- Modulo: `%`
 ---
 # Vergleichsoperatoren
 
