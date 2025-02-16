@@ -300,6 +300,7 @@ while zahl >= 1:
  import turtle
  
  turtle.forward(200)
+ turtle.left(90)
  ````
 ---
 # Die Olympischen Ringe mit turtle
