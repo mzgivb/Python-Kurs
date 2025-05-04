@@ -289,7 +289,7 @@ while zahl >= 1:
 
 ---
 # Zusammenfassung Schleifen
-- Schleifen ermöglichen die Wiederholung von Codeblöcken.
+
 - `for`-Schleifen eignen sich gut für die Iteration über Sequenzen.
 - `while`-Schleifen sind nützlich, wenn die Anzahl der Durchläufe nicht im Voraus bekannt ist.
 - `break` und `continue` ermöglichen eine feinere Kontrolle über den Schleifenfluss.
