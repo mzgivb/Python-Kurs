@@ -5,8 +5,12 @@ status: published
 folder: 190 - 🐍 Python
 reviewed: no
 tags:
-  - tags
+  - Bedingungen
+  - python
 ---
+
+# Bedingungen in Python
+
 In Python können Sie Bedingungen mit `if`, `elif` (optional) und `else` (optional) erstellen. Diese Bedingungen ermöglichen es Ihrem Code, unterschiedliche Aktionen basierend auf bestimmten Kriterien auszuführen. Hier ist ein einfaches Beispiel:
 
 

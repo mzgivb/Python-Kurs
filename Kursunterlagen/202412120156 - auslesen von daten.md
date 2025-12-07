@@ -52,8 +52,7 @@ for zeile in bereinigte_zeilen:
 
 if "Gesuchter Name" in bereinigte_zeilen:
     print("Name gefunden!")
-
-````
+```
 
 
 4. Komplettes Beispiel
@@ -86,7 +85,7 @@ if suchname in bereinigte_zeilen:
     print("Der Name ist in der Liste.")
 else:
     print("Der Name ist nicht in der Liste.")
-````
+```
 
 5. Ergebnisse und Verarbeitung
 

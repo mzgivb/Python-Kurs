@@ -1,3 +1,15 @@
+---
+type: Notiz
+ID: 202502021948
+status: published
+folder: 190 - 🐍 Python
+reviewed: no
+tags:
+  - matplotlib
+  - python
+  - Datenvisualisierung
+---
+
 # Darstellung von Werten mit Matplotlib
 
 Dieses Beispielskript zeigt, wie man numerische Werte aus einer Textdatei einliest, verarbeitet und mit Matplotlib grafisch darstellt. 
@@ -42,3 +54,4 @@ plt.title("Darstellung der Werte aus 'zahlen.txt'")
 
 # 5. Anzeigen des Plots
 plt.show()
+```
