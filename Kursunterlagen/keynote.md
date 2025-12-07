@@ -49,7 +49,7 @@ Die Binärzahl 1️⃣0️⃣1️⃣1️⃣ wird wie folgt in eine Dezimalzahl u
 $$(1 \times 2^3) + (0 \times 2^2) + (1 \times 2^1) + (1 \times 2^0)$$
 
 $$(1 \times 8) + (0 \times 4) + (1 \times 2) + (1 \times 1) = 8 + 0 + 2 + 1 = 11$$
-Also entspricht 11️⃣0️⃣1️⃣1️⃣ (binär) der Dezimalzahl 11.
+Also entspricht 1️⃣0️⃣1️⃣1️⃣ (binär) der Dezimalzahl 11.
 
 ---
 # Speicherung von Daten
@@ -64,7 +64,7 @@ Also entspricht 11️⃣0️⃣1️⃣1️⃣ (binär) der Dezimalzahl 11.
 	•	Daten werden in Bytes (8 Bits) gespeichert
 	•	Jede Speicherzelle besitzt eine eindeutige Adresse zur Datenverwaltung
 	•	Beispiel:
-	•	Eine Zahl wie 13 wird als 00001101 im 8-Bit-Format gespeichert. Die Zahl 13 belegt in Speicher 3 Bytes
+	•	Eine Zahl wie 13 wird als 00001101 im 8-Bit-Format gespeichert (1 Byte)
 
 **ls -l # zeigt das Rechtesystem und die Speicherblegung an !**
     
@@ -143,14 +143,14 @@ print(alter)
 - Ganzzahlen (Integer) `5`
 - Fließkommazahlen (Float) `5.7`
 - Zeichenketten (Strings) `"Hallo Welt"`
-- Boolesche Werte (Boolean) `"True" , "False"`
+- Boolesche Werte (Boolean) `True`, `False`
 
 ```python
-a = 5 # Datentyp Integer (Damit kann man rechnen)
-b = "5" #Datentyp String (damit kann man nicht rechnen)
-c = "5.8" #Datentyp String (damit kann man nicht rechnen)
-d = int(a) # jetzt kann man mit c rechnen , da der Datentyp geändert wurde!
-e = float(b) # e ist jetzt eine Fließkommazahl, wichtig ist einen . zu setzen und kein Komma ,
+a = 5       # Datentyp Integer (Damit kann man rechnen)
+b = "5"     # Datentyp String (damit kann man nicht rechnen)
+c = "5.8"   # Datentyp String (damit kann man nicht rechnen)
+d = int(b)  # jetzt kann man mit b rechnen, da der Datentyp geändert wurde!
+e = float(c) # e ist jetzt eine Fließkommazahl, wichtig ist einen . zu setzen und kein Komma ,
 bool_value_1 = True
 bool_value_2 = False
 ```
@@ -301,7 +301,7 @@ while zahl >= 1:
  
  turtle.forward(200)
  turtle.left(90)
- ````
+ ```
 ---
 # Die Olympischen Ringe mit turtle
 ```python
@@ -438,6 +438,11 @@ print(filme)
 # Lösung für Übung 5
 for film in filme:
     print(film)
+
+# Lösung für Übung 6
+zahlen = [1,2,3,4,5,6,7,12,13,35,48]
+gerade_zahlen = [z for z in zahlen if z % 2 == 0]
+print(gerade_zahlen)
 ```
 
 ---
@@ -560,7 +565,7 @@ Mit open() öffnest du eine Datei, und readlines() liest alle Zeilen der Datei e
 ```python
 with open("dateiname.txt", "r") as file:
     zeilen = file.readlines()  # Jede Zeile wird als String! in die Liste geschrieben
-````
+```
 ---
 # Bereinigen der Daten
 Beim Einlesen enthalten die Zeilen oft unerwünschte Leerzeichen oder Zeilenumbrüche (/n).
@@ -611,7 +616,7 @@ suchname = input("Gib einen Namen ein, um zu prüfen, ob er in der Liste ist: ")
 if suchname in bereinigte_zeilen:
     print("Der Name ist in der Liste.")
 else:
-    print("Der Name ist nicht in der Liste."
+    print("Der Name ist nicht in der Liste.")
 ```
 ---
 
