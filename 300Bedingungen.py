@@ -1,7 +1,7 @@
 
 # hier wird das Alter abgefragt und geschaut ob man minderjährig ist!
 alter = int(input("Wie alt bist du?: "))
-if alter > 18:
+if alter >= 18:
     print("Du bist volljährig.")
 else:
     print("Du bist minderjährig.")
