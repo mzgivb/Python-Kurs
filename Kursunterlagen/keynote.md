@@ -618,13 +618,44 @@ if suchname in bereinigte_zeilen:
 else:
     print("Der Name ist nicht in der Liste.")
 ```
+
 ---
+# Was haben wir gelernt? 🎯
 
+- Variablen und Datentypen
+- Operatoren und Bedingungen
+- Schleifen (`for` und `while`)
+- Listen und deren Methoden
+- Funktionen schreiben und nutzen
+- Dateien einlesen und verarbeiten
 
+---
+# Ausblick: Python Kurs 2 🚀
 
+- Dictionaries und Tupel
+- Fehlerbehandlung (`try`/`except`)
+- Objektorientierte Programmierung (Klassen)
+- Module und Pakete (z.B. `pandas`, `matplotlib`)
+- Datenvisualisierung
+- Eigene Projekte umsetzen
 
+---
+# Ressourcen zum Weiterlernen 📚
 
+- [python.org/doc](https://docs.python.org/3/) - Offizielle Dokumentation
+- [realpython.com](https://realpython.com) - Tutorials für alle Level
+- [pythontutor.com](https://pythontutor.com) - Code visuell verstehen
+- YouTube: "Corey Schafer", "Tech With Tim"
+- KI-Assistenten: ChatGPT, Claude als Coding-Coach nutzen
 
+---
+# Viel Erfolg! 🐍
 
+> "Der beste Weg, Programmieren zu lernen, ist Programmieren."
 
+- Macht Fehler - daraus lernt man am meisten!
+- Probiert eigene kleine Projekte aus
+- Fragt bei Problemen (KI, Foren, Kollegen)
+- Habt Spaß am Coden!
 
+**Danke fürs Mitmachen!** 👏
