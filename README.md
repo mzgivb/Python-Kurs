@@ -8,56 +8,56 @@ Jede Datei behandelt ein grundlegendes Konzept, um dir Schritt für Schritt die 
 
 ## Kursinhalt
 
-### 000 - Hallo Welt
+### 01 - Hallo Welt
 - Erstes Programm mit `print()`
 - String-Verkettung mit `+`
 - **f-Strings** - moderne Textformatierung
 - Variablen in Ausgaben einbetten
 
-### 100 - Variablen
+### 02 - Variablen
 - Werte im Arbeitsspeicher speichern
 - Rechnen mit Variablen
 - Aussagekräftige Variablennamen
 
-### 200 - Datentypen
+### 03 - Datentypen
 - `str` (Text), `int` (Ganzzahlen), `float` (Dezimalzahlen)
 - Typumwandlung mit `int()` und `float()`
 - Unterschied: `"5"` vs `5`
 
-### 300 - Bedingungen
+### 04 - Bedingungen
 - Benutzereingabe mit `input()`
 - Verzweigungen: `if`, `elif`, `else`
 - Vergleichsoperatoren: `>=`, `<`, `<=`
 
-### 400 - Operatoren
+### 05 - Operatoren
 - Arithmetisch: `+`, `-`, `*`, `/`
 - Vergleich: `==`, `>=`, `<`
 - Logisch: `and`, `or`
 - **Modulo** `%` für gerade/ungerade Prüfung
 
-### 500 - Listen
+### 06 - Listen
 - Listen erstellen und indizieren
 - Elemente hinzufügen/entfernen: `append()`, `insert()`, `remove()`, `pop()`
 - `len()`, `sort()`, `reverse()`
 
-### 600 - Schleifen
+### 07 - Schleifen
 - `for`-Schleife über Strings, Listen, `range()`
 - `while`-Schleife mit Bedingung
 - Schleifensteuerung: `break`, `continue`
 
-### 700 - Funktionen
+### 08 - Funktionen
 - Funktionen definieren mit `def`
 - Parameter und Rückgabewerte (`return`)
 - Standardparameter
 
-### 800 - Dateien auslesen
+### 09 - Dateien auslesen
 - Dateien öffnen mit `with open()`
 - Zeilen einlesen und bereinigen
 - List Comprehensions
 - `enumerate()` für nummerierte Ausgabe
 - Benötigt: `namen_liste.txt`
 
-### 900 - Daten visualisieren
+### 10 - Daten visualisieren
 - Einführung in `matplotlib`
 - Liniendiagramme erstellen
 - Daten aus Dateien plotten
@@ -76,4 +76,4 @@ Rufe im Terminal (oder in der IDE deiner Wahl) die entsprechenden Skripte auf.
 Beispiel:
 
 ```bash
-python3 000Hallo.py
+python3 01_hallo.py
